@@ -8,5 +8,6 @@ public class practice2 {
         System.out.println("ye");
         System.out.println("yoo");
         System.out.println("haha");
+        System.out.println("yeye");
     }
 }
