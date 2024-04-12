@@ -9,6 +9,6 @@ public class practice2 {
         System.out.println("yoo");
         System.out.println("haha");
         System.out.println("yeye");
-        System.out.println("eheh");
+        System.out.println("eheh");System.out.println("pp");
     }
 }
