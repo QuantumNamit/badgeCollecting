@@ -11,5 +11,6 @@ public class practice2 {
         System.out.println("yeye");
         System.out.println("eheh");System.out.println("pp");
         System.out.println("yipee");
+        System.out.println("yeye");
     }
 }
